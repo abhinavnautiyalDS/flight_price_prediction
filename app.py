@@ -1,7 +1,22 @@
 import streamlit as st
-import numpy as np
 import pickle
+import pandas as pd
+import numpy as np
+import gdown
 import base64
+import os
+
+# Install dependencies from requirements.txt
+if not os.path.exists(".installed_dependencies"):  # Run only once
+    os.system("pip install -r requirements.txt")
+    open(".installed_dependencies", "w").close()
+
+# Google Drive file IDhttps://drive.google.com/file/d/1BO-Kx_jsCYKrL9J_LQyYU0iU0wOR8frV/view?usp=sharing
+file_id = "1BO-Kx_jsCYKrL9J_LQyYU0iU0wOR8frV"
+output_file = "model_.pkl"
+
+gdown.download(f"https://drive.google.com/uc?id={file_id}", output_file, quiet=False)
+
 
 # Load trained model
 def get_base64_image(image_path):
@@ -23,7 +38,7 @@ page_bg_img = f"""
 </style>
 """
 st.markdown(page_bg_img, unsafe_allow_html=True)
-with open("model_.pkl", "rb") as f:
+with open(output_file, "rb") as f:
     model = pickle.load(f)
 
 # Scaling function
