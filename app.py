@@ -3,6 +3,8 @@ import numpy as np
 import pickle
 import base64
 import gdown
+import sklearn
+
 pip install --no-cache-dir scikit-learn
 
 
