@@ -26,6 +26,6 @@ The objective of this project is to analyse flight fare data by applying SQL tec
 
 - Scikit-learn, LinearRegression, DecisionTreeRegressor , RandomForestRegressor
 
-# ** About data**
+# **About data**
 
 
