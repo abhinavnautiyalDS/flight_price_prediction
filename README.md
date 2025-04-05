@@ -24,3 +24,7 @@ The objective of this project is to analyse flight fare data by applying SQL tec
 - Pandas, NumPy, Matplotlib, Seaborn: For preprocessing and visualisation
 
 - Scikit-learn, LinearRegression, DecisionTreeRegressor , RandomForestRegressor
+
+# ** About data**
+
+
