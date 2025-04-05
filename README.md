@@ -1,7 +1,8 @@
-# ✈️ **Flight Fare Prediction**
-
 
 ![WallpaperDog-10792408](https://github.com/user-attachments/assets/c2e2ab27-5429-4422-a76b-366ed773e408)
+
+# ✈️ **Flight Fare Prediction**
+
 
 This project focuses on predicting flight ticket prices based on various features such as airline, source, destination, duration, and other travel-related information. The objective is to help users get a price estimate and make better booking decisions.
 
