@@ -41,3 +41,15 @@ The objective of this project is to analyse flight fare data by applying SQL tec
 11 **Price** : The target variable. This is what you're trying to predict using the other features.
 
 
+# **Data Cleaning And Feature Engineering**
+
+-- There were no null values present in my dataset
+![image](https://github.com/user-attachments/assets/6e45201b-c737-4cdc-ab4c-c1283400bf7a)
+
+-- There were no duplicate values present in dataset as well;
+
+
+
+
+
+
