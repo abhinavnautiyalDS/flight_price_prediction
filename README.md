@@ -42,10 +42,8 @@ The objective of this project is to analyse flight fare data by applying SQL tec
 
 
 # **Data Cleaning And Feature Engineering**
-
--- There were no null values present in my dataset
-![image](https://github.com/user-attachments/assets/6e45201b-c737-4cdc-ab4c-c1283400bf7a)
-
+This link Contain all the steps that i take in this process
+https://docs.google.com/document/d/1PdvkCDSpzXs4QsbW7EeObjrEA_kjyqgfzIlEAZbqplg/edit?tab=t.0
 -- There were no duplicate values present in dataset as well;
 
 
