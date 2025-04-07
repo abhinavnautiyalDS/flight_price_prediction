@@ -41,10 +41,37 @@ The objective of this project is to analyse flight fare data by applying SQL tec
 11 **Price** : The target variable. This is what you're trying to predict using the other features.
 
 
-# **Data Cleaning And Feature Engineering**
-This link Contain all the steps that i take in this process
-https://docs.google.com/document/d/1PdvkCDSpzXs4QsbW7EeObjrEA_kjyqgfzIlEAZbqplg/edit?tab=t.0
--- There were no duplicate values present in dataset as well;
+# **DATA CLEANING AND EXPLORATORY DATA ANALYSIS**
+
+A step-by-step explanation of the data cleaning and EDA process can be found at this link, as carried out by me
+https://drive.google.com/file/d/1dpIO2pC2_sxTTxstT1TvbGnLGkE9rvAu/view?usp=sharing
+
+
+# **KEY INSIGHTS**
+
+- Friday is the most expensive day to travel, followed by Sunday.
+
+- Midnight is the cheapest time to fly due to low demand.
+
+- Bangalore → New Delhi is the costliest route, while Chennai → Kolkata is the cheapest.
+
+- Jet Airways Business class offers the highest fare, likely due to luxury services.
+
+- A positive correlation exists between ticket price and duration.
+
+- More stops often lead to higher fares, but not necessarily longer durations.
+
+- May and June see the highest number of bookings, driven by vacation travel.
+
+
+# **🛠 Tools Used**
+
+- MySQL / PostgreSQL
+
+- SQL Window Functions, CASE, Aggregations, Joins, CTEs
+
+- Data pre-processing & formatting for temporal analysis
+
 
 
 
