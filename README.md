@@ -1,5 +1,6 @@
 
-![flight](https://github.com/user-attachments/assets/21f8d1d6-02d0-4128-979f-24e34b0c28e7)
+![image](https://github.com/user-attachments/assets/9ff2ba1f-7f2f-4718-9017-02ea8dd75d2e)
+
 
 # ✈️ **Flight Fare Prediction**
 
