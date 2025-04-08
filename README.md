@@ -1,5 +1,5 @@
 
-![WallpaperDog-10792408](https://github.com/user-attachments/assets/c2e2ab27-5429-4422-a76b-366ed773e408)
+![flight](https://github.com/user-attachments/assets/21f8d1d6-02d0-4128-979f-24e34b0c28e7)
 
 # ✈️ **Flight Fare Prediction**
 
