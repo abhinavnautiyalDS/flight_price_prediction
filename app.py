@@ -3,6 +3,10 @@ import numpy as np
 import pickle
 import base64
 
+
+if not os.path.exists(".installed_dependencies"):  # Run only once
+    os.system("pip install -r requirements.txt")
+    open(".installed_dependencies", "w").close()
 # Load background image
 def get_base64_image(image_path):
     with open(image_path, "rb") as img_file:
