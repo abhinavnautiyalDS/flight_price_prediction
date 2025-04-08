@@ -48,8 +48,7 @@ A step-by-step explanation of the data cleaning and EDA process can be found at 
 https://drive.google.com/file/d/1dpIO2pC2_sxTTxstT1TvbGnLGkE9rvAu/view?usp=sharing
 
 
-https://flightpriceprediction-a6bar4vctv3ed6qu2bzonf.streamlit.app/
-
+https://flightpriceprediction-gtvjjw47rnqnatnw6hhruc.streamlit.app/
 ![Streamlit-GoogleChrome2025-04-0823-20-36-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6591f485-548d-43c3-bd93-e68dcfe48a22)
 
 
