@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pickle
 import base64
+import os
 
 
 if not os.path.exists(".installed_dependencies"):  # Run only once
