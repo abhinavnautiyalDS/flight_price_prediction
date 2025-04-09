@@ -52,6 +52,9 @@ https://flightpriceprediction-gtvjjw47rnqnatnw6hhruc.streamlit.app/
 ![Streamlit-GoogleChrome2025-04-0823-20-36-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6591f485-548d-43c3-bd93-e68dcfe48a22)
 
 
+![Streamlit-GoogleChrome2025-04-0919-51-07-ezgif com-crop](https://github.com/user-attachments/assets/30d1052f-6277-4206-ae27-08f60a644ed5)
+
+
 # **KEY INSIGHTS**
 
 - Friday is the most expensive day to travel, followed by Sunday.
