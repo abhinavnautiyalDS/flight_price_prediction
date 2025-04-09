@@ -133,7 +133,6 @@ if st.button("🎯 Predict Flight Price"):
     prediction = model.predict(np.array([final_input]))[0]
     result = prediction * (52229 - 1965) + 1965
     st.success(f"💸 Predicted Flight Price: ₹{round(result, 2)}")
-    st.balloons()
 
 
 
